@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ * main - Prints the last digit of a randomly generated number
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
