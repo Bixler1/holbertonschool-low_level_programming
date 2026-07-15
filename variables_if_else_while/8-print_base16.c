@@ -19,7 +19,7 @@ int main(void)
 	{
 	  putchar((hex - 10) + 'a');
 	}
-      num++;
+      hex++;
     }
   putchar('\n');
 
