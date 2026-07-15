@@ -19,6 +19,9 @@ int main(void)
 	{
 	  putchar((hex - 10) + 'a');
 	}
+      num++;
     }
-  num++;
+  putchar('\n');
+
+  return (0);
 }
